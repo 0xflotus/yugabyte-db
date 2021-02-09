@@ -20,7 +20,7 @@ certifi==2018.11.29
 cffi==1.11.5
 chardet==3.0.4
 colorama==0.3.7
-cryptography==1.7.2
+cryptography==3.2
 docker-compose==1.9.0
 docker-py==1.7.0
 dockerpty==0.4.1
